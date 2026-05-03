@@ -1,0 +1,63 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "shelterlogic": "https://api-evangelist.github.io/shelterlogic-group/vocab#",
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "identifier": "schema:identifier",
+    "Product": {
+      "@id": "schema:Product",
+      "@type": "@id"
+    },
+    "productId": {
+      "@id": "schema:productID",
+      "@type": "schema:Text"
+    },
+    "category": {
+      "@id": "schema:category",
+      "@type": "schema:Text"
+    },
+    "brand": {
+      "@id": "schema:brand",
+      "@type": "schema:Brand"
+    },
+    "material": {
+      "@id": "schema:material",
+      "@type": "schema:Text"
+    },
+    "weight": {
+      "@id": "schema:weight",
+      "@type": "schema:QuantitativeValue"
+    },
+    "dimensions": {
+      "@id": "schema:size",
+      "@type": "schema:Text"
+    },
+    "color": {
+      "@id": "schema:color",
+      "@type": "schema:Text"
+    },
+    "price": {
+      "@id": "schema:price",
+      "@type": "schema:Number"
+    },
+    "availability": {
+      "@id": "schema:availability",
+      "@type": "schema:Text"
+    },
+    "Organization": {
+      "@id": "schema:Organization",
+      "@type": "@id"
+    },
+    "manufacturer": {
+      "@id": "schema:manufacturer",
+      "@type": "schema:Organization"
+    },
+    "countryOfOrigin": {
+      "@id": "schema:countryOfOrigin",
+      "@type": "schema:Country"
+    }
+  }
+}

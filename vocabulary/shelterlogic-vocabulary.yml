@@ -1,0 +1,55 @@
+vocabulary:
+  name: ShelterLogic Group Vocabulary
+  description: Domain vocabulary for ShelterLogic Group outdoor shelter, storage, and lifestyle products.
+  version: '1.0'
+  created: '2026-05-02'
+  modified: '2026-05-02'
+  terms:
+    - term: Portable Shelter
+      definition: A temporary or semi-permanent structure designed for outdoor use, including carports, garages, canopies, and storage buildings that can be assembled and disassembled without permanent foundation work.
+      category: Products
+      tags:
+        - Shelter
+        - Storage
+    - term: ShelterCoat
+      definition: ShelterLogic's branded heavy-duty polyethylene cover material used on their portable garages and storage structures.
+      category: Products
+      tags:
+        - Materials
+        - Brand
+    - term: Arrow Storage Products
+      definition: ShelterLogic Group brand specializing in steel storage sheds and outdoor storage solutions for residential and commercial use.
+      category: Brands
+      tags:
+        - Storage
+        - Brand
+    - term: Quik Shade
+      definition: ShelterLogic Group brand offering portable canopies, pop-up shade structures, and instant shade products for outdoor events and recreation.
+      category: Brands
+      tags:
+        - Shade
+        - Brand
+    - term: SOJAG
+      definition: ShelterLogic Group brand offering aluminum-frame gazebos, pergolas, and outdoor shelter structures for residential use.
+      category: Brands
+      tags:
+        - Outdoor Living
+        - Brand
+    - term: ShelterTech
+      definition: ShelterLogic's commercial-grade heavy-duty outdoor storage buildings engineered for wind and snow loading in professional applications.
+      category: Products
+      tags:
+        - Commercial
+        - Storage
+    - term: Drop Ship
+      definition: ShelterLogic fulfillment model where products ship directly from the manufacturer to the end customer on behalf of retail partners.
+      category: Fulfillment
+      tags:
+        - Supply Chain
+        - Retail
+    - term: HUBZone
+      definition: Historically Underutilized Business Zone federal designation held by ShelterLogic's Newport, Tennessee manufacturing facility.
+      category: Operations
+      tags:
+        - Manufacturing
+        - Compliance
