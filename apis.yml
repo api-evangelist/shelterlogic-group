@@ -29,6 +29,8 @@ maintainers:
     email: kin@apievangelist.com
 specificationVersion: '0.19'
 common:
+  - type: DomainSecurity
+    url: security/shelterlogic-group-domain-security.yml
   - url: https://www.shelterlogic.com
     type: Website
   - url: https://www.shelterlogic.com/about
