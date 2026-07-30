@@ -9,6 +9,17 @@ tags:
   - Retail
   - Storage
 kind: contract
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.shelterlogic.com/cdn/shop/files/ShelterLogic_Logo.svg
 access: 3rd-Party
 created: '2025-01-01'
